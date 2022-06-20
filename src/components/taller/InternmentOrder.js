@@ -58,6 +58,7 @@ const InternmentOrder = () => {
        })
        setOrders(ordersNew);
        setModalEdit(false);
+       
     }
 
     const deleteOrder = () => {
